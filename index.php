@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head> 
 <title> Comment utiliser un code PHP dans une page HTML </title>
